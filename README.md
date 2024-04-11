@@ -1,3 +1,5 @@
+ESP IDF demo for Makefab ESP32-S3 Parallel 3.5'' TFT with Touch
+
 | Supported Targets | ESP32 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- |
 # LVGL porting example (based on i80 interfaced LCD controller)
