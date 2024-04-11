@@ -1,0 +1,16 @@
+.cache
+compile_commands.json
+*.swp
+build/
+sdkconfig
+debug.log
+sdkconfig.old
+dependencies.lock
+managed_components/
+__pycache__/
+out/
+_build/
+tools/chip-tool/
+.vscode/
+.vscode/settings.json
+micropython_subproject/build-*/*
